@@ -1,5 +1,5 @@
 
-
+// kilometerToMeter
 function kilometerToMeter(kilometer){
 
     var meter = kilometer * 5000;
@@ -7,6 +7,4 @@ function kilometerToMeter(kilometer){
 } 
 console.log(kilometerToMeter(5));
 
-
-
-
+//Kilometer is "25000"
